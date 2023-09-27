@@ -1,0 +1,3 @@
+[submodule "tenzies"]
+    path = tenzies
+    url = https://github.com/ahmetmenevse/tenzies.git
